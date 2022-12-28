@@ -2604,265 +2604,265 @@
       (reference "J?") (unit 1) (value "AVR-ISP-6") (footprint "")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/7c98777d-4cf6-4172-b0d4-320953ef53d4"
-      (reference "K1") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K1") (unit 1) (value "ESC") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/67c12eb2-449c-4c6c-ada3-3268596602eb"
-      (reference "K2") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K2") (unit 1) (value "F!") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/42f00af8-c05d-4a0f-a35f-be6d7a206da5"
-      (reference "K3") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K3") (unit 1) (value "F2") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/26d0a515-504f-4dff-92ce-a44d7c9f3159"
-      (reference "K4") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K4") (unit 1) (value "F3") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/1948250f-63e0-4b02-884c-cf36cea0122a"
-      (reference "K5") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K5") (unit 1) (value "F4") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/85078c17-9786-4ef0-80c7-9e7aa2afce57"
-      (reference "K6") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K6") (unit 1) (value "F5") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/cba61700-1b0e-44bb-90ae-189a9204c7e6"
-      (reference "K7") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K7") (unit 1) (value "F6") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/a6ff1eee-e26a-497c-b7b3-d3e6a56f9fa8"
-      (reference "K8") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K8") (unit 1) (value "F7") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/cf2c3e76-238d-4207-b160-9adb74525cb9"
-      (reference "K9") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K9") (unit 1) (value "F8") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/8289a550-6528-4894-b050-3701bf08c5ed"
-      (reference "K10") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K10") (unit 1) (value "F9") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/2c910664-f4ac-4c5d-b134-9a8a4e895e1d"
-      (reference "K11") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K11") (unit 1) (value "F10") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/4afbea54-223a-464c-92e3-617556aefb0a"
-      (reference "K12") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K12") (unit 1) (value "F11") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/4d8a75bd-2cd8-49b6-9a7c-eb7e84d08b2d"
-      (reference "K13") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K13") (unit 1) (value "F12") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/5f73df01-2286-4d4a-9a21-156f50647f47"
-      (reference "K14") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K14") (unit 1) (value "Imp_Ecran") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/3f4777e8-f3fb-454a-9b45-6f9b0ddd328f"
-      (reference "K15") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K15") (unit 1) (value "Defilement") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/ace0b15a-e285-41ad-bad2-741240d5304c"
-      (reference "K16") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K16") (unit 1) (value "Pause") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/49c70f27-4066-447d-b93e-0753d8543cfc"
-      (reference "K17") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K17") (unit 1) (value "/") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/cb3f65df-871b-4f5a-912b-161a298c8244"
-      (reference "K18") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K18") (unit 1) (value "1") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/25fbdb63-9da0-4c36-a73f-8ffb40cecb8b"
-      (reference "K19") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K19") (unit 1) (value "2") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/d6ed6ae7-232a-43c2-943c-1f8b88d7910c"
-      (reference "K20") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K20") (unit 1) (value "3") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/72be310e-0467-4132-8f7b-a81ea600946a"
-      (reference "K21") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K21") (unit 1) (value "4") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/8d50e263-96a2-4f05-9016-3368b198f6ff"
-      (reference "K22") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K22") (unit 1) (value "5") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/9933bde4-6f4d-4dea-bb1c-f95f910c4a18"
-      (reference "K23") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K23") (unit 1) (value "6") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/e77da369-5b9b-4a0d-987f-93b75e3e4b45"
-      (reference "K24") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K24") (unit 1) (value "7") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/f60dd4b5-3ab7-498e-af22-f8c4d76d9c45"
-      (reference "K25") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K25") (unit 1) (value "8") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/73447e80-e36d-43f5-b79b-3b6bfec7ee2a"
-      (reference "K26") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K26") (unit 1) (value "9") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/0b5a49e0-8ffd-44c2-a7bb-c2222567151f"
-      (reference "K27") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K27") (unit 1) (value "0") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/376c750b-13d3-4c23-869c-fa908f200292"
-      (reference "K28") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K28") (unit 1) (value "-") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/67d6c9e1-3b6b-453f-8df3-6b96436fc505"
-      (reference "K29") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K29") (unit 1) (value "=") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/a96874b5-39df-4db8-9602-1bde8c40a3c1"
       (reference "K30") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/e47e1702-9f33-4fcb-931a-3b5ffda7fc0b"
-      (reference "K31") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K31") (unit 1) (value "Ins") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/01260d38-d129-42c7-9eba-ea621a2c527b"
-      (reference "K32") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K32") (unit 1) (value "Debut") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/04c11e59-69f3-4f7a-be46-c1e04de5b072"
-      (reference "K33") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K33") (unit 1) (value "Next") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/8f6a8614-4bb6-417d-b0cb-00878cf299e7"
-      (reference "K34") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K34") (unit 1) (value "TAB") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/e5d5fa27-7a18-4ddf-a8cb-103e8a11cad5"
-      (reference "K35") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K35") (unit 1) (value "Q") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/2c2725e2-69d8-464b-afa9-3359bd5b6eeb"
-      (reference "K36") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K36") (unit 1) (value "W") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/2795a48a-1a66-4c88-bbb3-6320dd95b196"
-      (reference "K37") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K37") (unit 1) (value "E") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/ffe55128-6400-4056-aed9-fcfebc8d9d1a"
-      (reference "K38") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K38") (unit 1) (value "R") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/f8b57133-dc71-48b1-86e0-a08b183da3b7"
-      (reference "K39") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K39") (unit 1) (value "T") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/1ae20336-e704-4dcf-aa5a-a0a4b75153de"
-      (reference "K40") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K40") (unit 1) (value "Y") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/7ed9d6da-ab90-47b7-a5e9-21da3fe1efcd"
-      (reference "K41") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K41") (unit 1) (value "U") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/4ff0a73c-f2b1-43f0-a289-7e1abbc2821e"
-      (reference "K42") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K42") (unit 1) (value "I") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/da686b53-ed64-4eda-b591-12e1c851e94a"
-      (reference "K43") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K43") (unit 1) (value "O") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/0cd2c0d1-6aba-443c-a36a-a2d2ffc9cef7"
-      (reference "K44") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K44") (unit 1) (value "P") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/471a694c-7599-4a85-b8db-985e7168973d"
-      (reference "K45") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K45") (unit 1) (value "^") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/bc50fc32-06ef-489d-af67-6adc3533be92"
-      (reference "K46") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K46") (unit 1) (value "Ç") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/cac1d73f-e024-4850-b729-1054fd02681e"
-      (reference "K47") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
+      (reference "K47") (unit 1) (value "À") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/9dadad30-5192-4230-972b-24057537ec57"
-      (reference "K48") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K48") (unit 1) (value "Suppr") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/39838cb9-fa65-48d3-a2b5-ad24710153f7"
-      (reference "K49") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K49") (unit 1) (value "FIN") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/9048b5cc-b6b3-4704-896e-dd6714acee2d"
-      (reference "K50") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K50") (unit 1) (value "Previous") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/9685e72e-c739-4dda-b9d1-e6cc95db2667"
-      (reference "K51") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
+      (reference "K51") (unit 1) (value "CAPS LOCK") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/091f6fac-bd6b-4282-8bf0-0b7afce506a1"
-      (reference "K52") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K52") (unit 1) (value "A") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/df8350eb-2d0e-4038-ad38-afd850c88a1a"
-      (reference "K53") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K53") (unit 1) (value "S") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/fcb849d6-bbf2-49da-9f06-09c5fffd6cf3"
-      (reference "K54") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K54") (unit 1) (value "D") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/b2d948b1-2336-4741-99d2-88ba42c650b7"
-      (reference "K55") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K55") (unit 1) (value "F") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/7667e9f8-0b52-42c1-85c2-d72bbecf7f92"
-      (reference "K56") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K56") (unit 1) (value "G") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/79001a9e-4320-4f5f-914b-6e2597296520"
-      (reference "K57") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K57") (unit 1) (value "H") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/a4551e8a-c721-4ccc-9fc8-cc4613b104bc"
-      (reference "K58") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K58") (unit 1) (value "J") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/c3d11431-7e91-4fc9-b454-0cd6a9134b95"
-      (reference "K59") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K59") (unit 1) (value "K") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/a4dcb497-d2d0-4b38-8716-c3a3c6f4cbda"
-      (reference "K60") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K60") (unit 1) (value "L") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/f6389935-8b71-4a8b-905c-4abd32d73a8d"
-      (reference "K61") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K61") (unit 1) (value ";") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/57219be2-4fdb-4cd7-92b5-aeea281f1910"
-      (reference "K62") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K62") (unit 1) (value "È") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/bd4b316d-081e-4e9d-93b6-823a6c89d786"
-      (reference "K63") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB")
+      (reference "K63") (unit 1) (value "ENTER") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/6cbe24c9-47bd-45db-b624-d056371c3735"
-      (reference "K64") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB")
+      (reference "K64") (unit 1) (value "MAJ G.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/6a1b6b6a-e676-4107-b546-834370a7f57f"
-      (reference "K65") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K65") (unit 1) (value "Z") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/2d137698-f248-423a-9bc7-02999c54c545"
-      (reference "K66") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K66") (unit 1) (value "X") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/36089516-93c1-4fcf-8b12-a9b82b73fa0d"
-      (reference "K67") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K67") (unit 1) (value "C") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/03b60aad-5fee-4874-9b26-209d860fb3dc"
-      (reference "K68") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K68") (unit 1) (value "V") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/11546059-b428-4263-9e59-ae9160d6c01c"
-      (reference "K69") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K69") (unit 1) (value "B") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/ef1d3680-edf7-462c-b100-8a23f88f6122"
-      (reference "K70") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K70") (unit 1) (value "N") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/31c243c4-8760-4317-bc05-c1b9ab74d920"
-      (reference "K71") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K71") (unit 1) (value "M") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/853f6d37-9a41-4c3d-9a45-0cf997aaf853"
-      (reference "K72") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K72") (unit 1) (value ",") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/ce844eaf-91cf-48b7-b1fa-9105cab3641b"
-      (reference "K73") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K73") (unit 1) (value ".") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/15f725f6-a5b0-4b87-bb8b-46b8bea983f2"
-      (reference "K74") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K74") (unit 1) (value "É") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/cd7c9359-3c80-4471-96a0-b073e97c715d"
-      (reference "K75") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB")
+      (reference "K75") (unit 1) (value "MAJ D.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/1ab6c4fe-e5ab-403f-9686-e8f83d14b1a8"
-      (reference "K76") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K76") (unit 1) (value "UP Arrow") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/beef83ef-f790-41ed-8459-395be066fccd"
-      (reference "K77") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K77") (unit 1) (value "CTRL G.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/33d42c17-502d-4299-bbb0-fa35af098e75"
-      (reference "K78") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K78") (unit 1) (value "WINDOWS") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/67b85835-1baa-4006-8bcd-6c6163423fa3"
-      (reference "K79") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K79") (unit 1) (value "ALT G.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/3c213d6e-6486-4e6b-9272-fc2ba98a2326"
-      (reference "K80") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB")
+      (reference "K80") (unit 1) (value "BARRE") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/c940960d-3779-4094-89a1-18dd0b7452f9"
-      (reference "K81") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K81") (unit 1) (value "ALT D.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/af60f1d3-9ed3-43ae-87f9-d79d5561f552"
-      (reference "K82") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K82") (unit 1) (value "WINDOWS") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/c80f7198-b7d7-413f-9c1c-73eba8a78667"
-      (reference "K83") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K83") (unit 1) (value "MENU") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/de6999c8-f2dd-4b0c-acd4-2cfea771820e"
-      (reference "K84") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
+      (reference "K84") (unit 1) (value "CTRL D.") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/4e7c32be-ef74-47fa-9e22-7aaef8dfb32b"
-      (reference "K85") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K85") (unit 1) (value "LEFT Arrow") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/10b60e7f-bd36-4e09-9120-5d9879b936ba"
-      (reference "K86") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K86") (unit 1) (value "DOWN Arrow") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/cc2a604a-cc0c-4317-b623-a26e7e22fc91/95a78d30-b7fb-46e7-9db8-5c9911f10613"
-      (reference "K87") (unit 1) (value "KEYSW") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+      (reference "K87") (unit 1) (value "RIGHT Arrow") (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
     )
     (path "/86f95a54-388d-49f4-a3df-0a3f5e5a5817"
       (reference "R?") (unit 1) (value "10K") (footprint "")
