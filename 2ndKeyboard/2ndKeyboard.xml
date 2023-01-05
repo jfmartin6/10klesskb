@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/jfmartin/10klesskb/2ndKeyboard/2ndKeyboard.kicad_sch</source>
-    <date>dim 01 jan 2023 02:32:59</date>
+    <date>mar 03 jan 2023 14:33:59</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1765,14 +1765,14 @@
       <tstamps>426a6205-61a4-45a9-9c99-92cb385312c9</tstamps>
     </comp>
     <comp ref="U1">
-      <value>ATmega32U4-A</value>
-      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <value>ATmega32U4-M</value>
+      <footprint>Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
-      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-M" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="2ndKeyboard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>af4ee55b-9968-4532-aee2-7850f12226d2</tstamps>
+      <tstamps>cb80c991-e7df-4488-8023-1645116c9151</tstamps>
     </comp>
     <comp ref="USB1">
       <value>HRO-TYPE-C-31-M-12</value>
@@ -1919,16 +1919,16 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-A">
-      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</description>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-M">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</description>
       <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
       <footprints>
-        <fp>TQFP*10x10mm*P0.8mm*</fp>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
       </footprints>
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">ATmega32U4-A</field>
-        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Value">ATmega32U4-M</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</field>
         <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
       </fields>
       <pins>
@@ -1976,6 +1976,7 @@
         <pin num="42" name="AREF" type="passive"/>
         <pin num="43" name="GND" type="passive"/>
         <pin num="44" name="AVCC" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Power_Protection" part="PRTR5V0U2X">
@@ -2319,6 +2320,7 @@
       <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
       <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
       <node ref="USB1" pin="12" pinfunction="GND" pintype="input"/>
